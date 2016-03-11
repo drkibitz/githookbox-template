@@ -1,0 +1,7 @@
+*
+!.gitignore
+!hooks
+!hooks/*
+!info
+!info/*
+
